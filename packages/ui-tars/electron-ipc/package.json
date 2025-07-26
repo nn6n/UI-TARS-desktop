@@ -45,7 +45,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "electron": "^30.0.0",
+    "electron": "^37.2.4",
     "@rslib/core": "^0.5.4",
     "@common/configs": "workspace:*",
     "typescript": "^5.7.2",
