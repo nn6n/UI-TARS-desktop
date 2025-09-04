@@ -100,7 +100,7 @@
     "@vitejs/plugin-react": "^4.3.4",
     "@vitest/coverage-istanbul": "^3.0.3",
     "cross-env": "^7.0.3",
-    "electron": "34.1.1",
+    "electron": "35.7.5",
     "electron-packager-languages": "0.5.0",
     "electron-vite": "^3.0.0",
     "eslint": "^8.57.0",
