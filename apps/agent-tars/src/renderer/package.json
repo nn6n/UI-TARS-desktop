@@ -4,7 +4,7 @@
     "@ui-tars/electron-ipc": "workspace:*",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "@nextui-org/react": "2.4.8",
+    "@nextui-org/react": "2.6.11",
     "framer-motion": "11.2.13",
     "styled-components": "6.1.11",
     "localforage": "^1.10.0",
